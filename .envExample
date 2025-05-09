@@ -1,0 +1,7 @@
+APP_PORT=port
+DB_HOST=192.168.177.13
+DB_PORT=1433
+DB_USER=username
+DB_PASSWORD=DbPassword
+DB_NAME=klikCair
+ENVIRONMENT=developer
